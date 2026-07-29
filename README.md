@@ -1,2 +1,2 @@
-# PAG-MoE
-PAG-MoE: Physics-Guided Direction-Adaptive Mixture-of-Experts with Foundation-Model Priors for Self-Supervised Sonar Despeckling
+# DASP-MoE
+Direction-Adaptive Expert Decomposition with Structural Priors for Self-Supervised Sonar Image Despeckling
